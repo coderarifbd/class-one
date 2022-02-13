@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, p, img{
+            text-align: center;
+        }
+        h1{
+            background: #2A2D6E;
+            color: #fff;
+            font-size: 56px;
+            font-family: sans-serif;
+            font-weight: 900;
+            line-height: 1.5em;
+        }
+        h2{
+            font-size: 36px;
+            color: #0b0d54;
+        }
+        h3{
+            font-size: 56px;
+        }
+        strong{
+            color: blueviolet;
+        }
+        .freelancer{
+            color: red;
+        }
+        .youtuber{
+            color: blue;
+        }
+        .mentor{
+            color: orangered;
+        }
+        img{
+            width: 25%;
+            display: block;
+            margin: auto;
+            padding-top: 40px;
+        }
+        p{
+            width: 75%;
+            display: block;
+            margin: auto;
+            padding: 40px 0px 40px 0;
+        }
